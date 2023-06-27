@@ -1,4 +1,4 @@
-<img width="100%" height="500px" object-fit="cover" src="https://user-images.githubusercontent.com/60973245/155001066-1ef1d5ae-8cdd-4439-810b-675db690858f.gif"/>
+<img width="100%" width="400" height="400" object-fit="cover" src="https://user-images.githubusercontent.com/60973245/155001066-1ef1d5ae-8cdd-4439-810b-675db690858f.gif"/>
 <h1 align="center">Hi There,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Gurlal Singh</h1>
 <h3 align="center">Student at Humber College | Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in C#, ## java, SQL Server, Javascript, Angular, React, jQuery, MVC, .Net, ASP.Net, CSS and HTML5. Strong engineering professional with a Master's degree focused in Computer ## Science from Guru Nanak Dev University, Amritsar.</h3>
 
