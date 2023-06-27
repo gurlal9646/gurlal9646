@@ -39,6 +39,4 @@ I am a Developer, here some info about me
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gurlal9646&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
-</p>
+
