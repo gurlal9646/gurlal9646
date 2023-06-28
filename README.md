@@ -66,22 +66,16 @@
     <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
-<hr>
-<p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Stats</b></i></p>
 
 
-<table cellpadding="0" align="center">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=gurlal9646&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-   <!-- GitHub Top Language Card -->
-<!--     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurlal9646&layout=compact&theme=radical&custom_title=Languages"/></td> --> 
-  </tr>
-</table>
+## 📊 Github stats
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gurlal9646&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=gurlal9646&show_icons=true&theme=transparent"/>
+
+
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gurlal9646&&theme=transparent&show_icons=true)](https://git.io/streak-stats" /> 
 
 
