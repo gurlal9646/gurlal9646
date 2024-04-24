@@ -1,9 +1,16 @@
 <h1 align="center">Hi There,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Gurlal Singh</h1>
-<h3 align="left">- Master's in Computer Science graduate from Humber College and Guru Nanak Dev University
+<h3 align="left">
+    
+- Master's in Computer Science graduate from Humber College and Guru Nanak Dev University
+  
 - 4+ years of hands-on experience in IT
+  
 - Proficient in C#, Java, SQL Server, JavaScript, and more
+  
 - Passionate about exploring the latest tech trends
+  
 - Strong advocate for collaborative problem-solving
+  
 - Let's connect to embark on an innovative journey!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurlal9646&label=Profile%20views&color=0e75b6&style=flat" alt="gurlal9646" /> </p>
