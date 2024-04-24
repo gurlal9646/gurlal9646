@@ -1,5 +1,15 @@
 <h1 align="center">Hi There,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Gurlal Singh</h1>
-<h3 align="center">Student at Humber College | Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in C#, ## java, SQL Server, Javascript, Angular, React, jQuery, MVC, .Net, ASP.Net, CSS and HTML5. Strong engineering professional with a Master's degree focused in Computer ## Science from Guru Nanak Dev University, Amritsar.</h3>
+<h3 align="center">🚀 Crafting Innovative Solutions | Tech Enthusiast 🚀
+
+🎓 Humber College Alumnus | Master's in Computer Science Graduate 🎓
+
+With over 4 years of hands-on experience in the IT world, I bring a blend of practical expertise and academic knowledge to the table. From my days at Humber College to my advanced studies at Guru Nanak Dev University, I've been immersed in the world of technology, constantly honing my craft.
+
+My skill set includes a wide array of tools and languages, from C# and Java to SQL Server, JavaScript, and beyond. But what truly sets me apart is my commitment to staying ahead of the curve. I thrive on exploring the latest tech trends, always eager to find new ways to solve problems and drive innovation.
+
+While I excel in solo projects, I truly shine in collaborative environments. I believe that the best ideas come from teamwork and diverse perspectives. If your team is ready to tackle exciting challenges and push the boundaries of what's possible, let's connect and explore how we can work together to make a difference.
+
+🔍 Ready to embark on a journey of innovation? Let's chat! 🔍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurlal9646&label=Profile%20views&color=0e75b6&style=flat" alt="gurlal9646" /> </p>
 
