@@ -1,19 +1,19 @@
 <h1 align="center">Gurlal Singh: Master's in Computer Science | Tech Enthusiast | IT Professional</h1>
+
 <h3 align="left">
     
-- Master's in Computer Science graduate from Humber College and Guru Nanak Dev University
-  
-- 4+ years of hands-on experience in IT
-  
-- Proficient in C#, Java, SQL Server, JavaScript, and more
-  
-- Passionate about exploring the latest tech trends
-  
-- Strong advocate for collaborative problem-solving
-  
-- Let's connect to embark on an innovative journey!</h3>
+- **Master's in Computer Science** from Humber College and Guru Nanak Dev University
+- **4+ years** of hands-on IT experience
+- Proficient in **C#, Java, SQL Server, JavaScript**, and more
+- Passionate about **exploring the latest tech trends**
+- Strong advocate for **collaborative problem-solving**
+- Excited to connect and embark on **innovative journeys**!
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurlal9646&label=Profile%20views&color=0e75b6&style=flat" alt="gurlal9646" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=gurlal9646&label=Profile%20views&color=0e75b6&style=flat" alt="gurlal9646" /> 
+</p>
+
 
 ## 📫 How to reach me
 
